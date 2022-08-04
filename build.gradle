@@ -29,7 +29,7 @@ dependencies {
     exclude group: 'org.codehaus.groovy', module: 'groovy-all'
   }
   testImplementation 'com.android.tools.build:gradle:7.0.2'
-  testImplementation 'commons-io:commons-io:2.4'
+  testImplementation 'commons-io:commons-io:2.7'
   testImplementation 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.3.21'
 }
 
